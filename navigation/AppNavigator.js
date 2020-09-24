@@ -12,7 +12,7 @@ export default function AppNavigator () {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Posts" component={Posts} />
+        <Stack.Screen name='Posts' component={Posts} />
       </Stack.Navigator>
     </NavigationContainer>
   )

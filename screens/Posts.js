@@ -6,10 +6,10 @@ import { Ionicons } from '@expo/vector-icons'
 const data = {
   posts: [
     {
-      'id': 1,
-      'title': "Hello World",
-      'link': 'https://google.com',
-      'imageUrl': 'https://picsum.photos/200/300'
+      id: 1,
+      title: 'Hello World',
+      link: 'https://google.com',
+      imageUrl: 'https://picsum.photos/200/300'
     }
   ]
 }
